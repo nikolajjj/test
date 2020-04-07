@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7W36kGOadrQ9Vf6WLblP41YZ8pEiFaco<%--&sensor=false--%>" type="text/javascript"></script>
+    
     <script src="/res/js/angular/script.js"/>
     <script src="/res/js/angular/angular.js" />
     <script src="<c:url value="/res/js/angular/orderCargoList.js" />"></script>
